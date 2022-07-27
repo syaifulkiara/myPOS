@@ -1,0 +1,7 @@
+{
+    "require": {
+        "picqer/php-barcode-generator": "^2.0",
+        "endroid/qr-code": "^3.7",
+        "dompdf/dompdf": "^0.8.5"
+    }
+}
